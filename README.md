@@ -18,7 +18,7 @@ print('b')
 ## 実習でやったこと (Y)
 
 Gitから学習のためのノートを貰った
-HTTPの仕組みを学び、神戸電子のHP(http://www.kobedenshi.ac.jp)で確認した
+HTTPの仕組みを学び、神戸電子のHP(http://www.kobedenshi.ac.jp)  で確認した
 ターミナルから神戸電子のHTMLをレスポンスとして貰い、それをkd.txtとしてVSCodeに開いた
 
 ## 自分で調べたこと
