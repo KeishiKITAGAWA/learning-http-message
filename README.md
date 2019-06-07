@@ -31,11 +31,35 @@ HTTPの仕組みを学び、神戸電子のHP(http://www.kobedenshi.ac.jp)  で�
 GET /H  HTTP/1.0
 
 HTTP/1.0 200 OK
+
+Date: Fri, 07 Jun 2019 01:38:33 GMT
+
+Server: Apache
+
+X-Cached: Fri, 07 Jun 2019 01:38:34 GMT
+
+X-Pingback: https:/xmlrpc.php
+
+Last-Modified: Fri, 07 Jun 2019 01:38:34 GMT
+
+X-Accel-Expires: 0
+
+Cache-Control: max-age=300
+
+Expires: Fri, 07 Jun 2019 01:43:33 GMT
+
+Vary: Accept-Encoding
+
+Connection: close
+
+Content-Type: text/html; charset=UTF-8
 ```
 
 ## それはなぜですか？
 
-何をするのかを簡潔に表しているため
+何をするのかを簡潔に表している
+Apache HTTPサーバー
+キャッシュの設定？コンテンツの種類など
 
 ## わかったこと・気づいたこと
 
