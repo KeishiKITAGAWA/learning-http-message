@@ -28,8 +28,9 @@ HTTPの仕組みを学び、神戸電子のHP(http://www.kobedenshi.ac.jp)  で�
 ## HTTPメッセージ (kd.txt) のうち、最も重要だと思う部分を貼り付けてください
 
 ```
-Request URL: https://www.kobedenshi.ac.jp/
-Request Method: GET
+GET /H  HTTP/1.0
+
+HTTP/1.0 200 OK
 ```
 
 ## それはなぜですか？
